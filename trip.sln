@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "trip", "trip.vcproj", "{ADFC34C8-BB50-4C6A-A56E-01F86B78DAA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADFC34C8-BB50-4C6A-A56E-01F86B78DAA9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ADFC34C8-BB50-4C6A-A56E-01F86B78DAA9}.Debug|Win32.Build.0 = Debug|Win32
+		{ADFC34C8-BB50-4C6A-A56E-01F86B78DAA9}.Release|Win32.ActiveCfg = Release|Win32
+		{ADFC34C8-BB50-4C6A-A56E-01F86B78DAA9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
